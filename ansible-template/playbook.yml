@@ -1,0 +1,16 @@
+- hosts: localhost
+  connection: local
+  gather_facts: false
+
+  vars:
+    success_count: "{{ discovery.num_successful_hosts }}" #settable
+    success_hosts: "{{ discovery.successful_hosts }}" #settable
+
+  tasks:
+
+    - debug:
+        var: success_hosts
+        
+    - debug:
+        var: success_count
+      failed_when: success_count | int != 7

@@ -1,0 +1,22 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "0af2da56-c5b2-44b7-b8f3-6e15a4890e65",
+    "TemplateName": "ansible template",
+    "Description": "mskamsdkmasd",
+    "TemplateType": 2,
+    "TemplateAuthor": "tester",
+    "ReleaseDateVersion": "05/28/2021 04:07:24",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/ansible-template",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1",
+    "TemplateOwner": "tester",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "tester",
+    "TemplateModifiedDate": "05/28/2021 04:07:24",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null,
+    "UseLocalZone": true
+  }
+}
